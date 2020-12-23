@@ -1,2 +1,2 @@
 # DiceRollingSimulator
- DiceRollingSimulator
+ Requirements: PyQt5
